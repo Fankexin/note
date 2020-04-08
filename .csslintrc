@@ -1,0 +1,10 @@
+{
+  "order-alphabetical": false,
+  "box-model": false,
+  "outline-none": false,
+  "box-sizing": false,
+  "universal-selector": false,
+  "adjoining-classes": false,
+  "known-properties": false,
+  "overqualified-elements": false
+}
